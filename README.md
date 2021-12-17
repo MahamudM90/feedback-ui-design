@@ -1,2 +1,2 @@
 # feedback-ui-design
-This is a Normal feedback-ui design site.
+This is a Normal Feedback-Ui Design site.
